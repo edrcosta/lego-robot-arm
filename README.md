@@ -1,7 +1,6 @@
-## Lego Robot Arm 
+## Raspberry Pico - Lego Robot Arm 
 
 its a simple lego robot ARM compose of 3 servo motors 1 rotary encoder and a push button 
-
 
 ## How it works 
 
